@@ -1,0 +1,14 @@
+{
+  "name": "bors-ng-test-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/acorncom-fake-sub-team/bors-ng-test-repo.git",
+  "author": "Sivakumar Kailasam <sivakumar.ur.friend@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+	  "test": "mocha test.js"
+  }
+}
