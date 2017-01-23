@@ -1,1 +1,1 @@
-module.exports = (greeter) => `Hello ${greeter}`
+module.exports = (greeter) => `Hello ${greeter}!`
